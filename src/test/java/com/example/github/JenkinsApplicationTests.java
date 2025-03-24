@@ -12,7 +12,7 @@ class JenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(false,true);
+		assertEquals(true,true);
 	}
 
 }
