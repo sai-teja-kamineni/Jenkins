@@ -12,6 +12,7 @@ class JenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.print("hi");
 		assertEquals(true,true);
 	}
 
